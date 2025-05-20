@@ -5,3 +5,5 @@ This is done using sockets instead of the libpcap library to better understand w
 Cool project to understand network packets.
 
 Of course this code can be extended to any protocol, I just worked on TCP.
+
+PD: To create sockets we need certain privileges, so run with sudo.
